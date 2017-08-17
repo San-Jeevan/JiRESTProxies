@@ -1,3 +1,13 @@
+You can host your own proxies. Remember you need to make sure you setup SSL or the proxy will not work as browser will block "insecure" requests.
+
+Currently we have proxy in following languages:
+* [C#](https://github.com/San-Jeevan/jirest-proxy-csharp)
+* [Azure Functions (C#)](https://github.com/San-Jeevan/jirest-proxy-azurefunc)
+* [Node.js](https://github.com/San-Jeevan/jirest-proxy-node)
+* Java (working on it)
+* Python (planned)
+* Go (planned)
+
 
 ![How the proxy works](https://github.com/San-Jeevan/JiRESTProxies/raw/master/JirestIllustration.png)
 
@@ -9,14 +19,5 @@ The proxy is necessary due to limitation in todays browsers. There are restrains
 - Certain packet headers in request and response are not visible to the browser.
 
 
-You can host your own proxies. Remember you need to make sure you setup SSL or the proxy will not work as browser will block "insecure" requests.
 
-Currently we have proxy in following languages:
-* C#
-* Azure Functions (C#)
-* Node.js
-* Java
-
-
-We are working on python version and Go.
 
