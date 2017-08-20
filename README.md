@@ -3,7 +3,7 @@ You can host your own proxies. Remember you need to make sure you setup SSL or t
 Currently we have proxy in following languages:
 * [C#](https://github.com/San-Jeevan/jirest-proxy-csharp)
 * [Azure Functions (C#)](https://github.com/San-Jeevan/jirest-proxy-azurefunc)
-* [Node.js](https://github.com/San-Jeevan/jirest-proxy-node)
+* [Node.js (this one is not properly tested, I hired a freelancer.com coder)](https://github.com/San-Jeevan/jirest-proxy-node)
 * Java (working on it)
 * Python (planned)
 * Go (planned)
