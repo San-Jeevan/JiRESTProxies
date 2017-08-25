@@ -20,5 +20,10 @@ The proxy is necessary due to limitation in todays browsers. There are restrains
 - Certain packet headers in request and response are not visible to the browser.
 
 
+### Do you have a free proxy for use?
+Yes, https://apiendpoint.gressquel.com/api/CorsProxy
+It is hosted in Azure cloud in Europe.
+We can Azure you that the proxy logs no requests and your privacy is the most important concern for us.
+
 
 
