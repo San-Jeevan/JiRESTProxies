@@ -13,7 +13,7 @@ Currently we have proxy in following languages:
 ![How the proxy works](https://github.com/San-Jeevan/JiRESTProxies/raw/master/JirestIllustration.png)
 
 The JiRest will send the query information to the proxy which executes it and sends back the response raw.
-The proxy is necessary due to limitation in todays browsers. There are restrains:
+The proxy is necessary due to limitation in todays browsers:
 
 - Cors (cross origin resource sharing) problem
 - Setting of cookie in a header
